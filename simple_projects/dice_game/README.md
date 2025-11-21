@@ -14,6 +14,9 @@
 
 ### - Clearer Formatting
 
+# Example Output
+
+
 ```
 Roll Dice! {y/n}: y
 Player: (4,6)
