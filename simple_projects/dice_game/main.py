@@ -5,8 +5,6 @@ cpu_wins = 0
 
 while True:
 
-
-
     answer = input("Roll Dice! {y/n}: ")
 
     if answer.lower() == "y":

@@ -35,35 +35,3 @@ while True:
         print("Invalid Choice!")
     else:
         compare(rps.capitalize(), cpu)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
-print("Player: " + rps + "  CPU: " + cpu)
-    
-    
-    ------- 
-    
-    for i in cpu_options:
-    print(i[test])
-
-
-
-'''
